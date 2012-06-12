@@ -37,7 +37,7 @@ public class MainWindow {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		new MainWindowTest();
+		new MainWindow();
 
 	}
 
