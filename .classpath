@@ -5,8 +5,8 @@
 	<classpathentry kind="src" path="src/main/prolog"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="lib" path="target/lib/gnuprologjava-0.2.6.jar"/>
-	<classpathentry kind="lib" path="target/lib/swt-debug.jar" sourcepath="lib-local/swt-src.zip"/>
-	<classpathentry kind="lib" path="target/lib/swt.jar"/>
+	<classpathentry kind="lib" path="lib-local/windows-swt-32bit/swt-debug.jar"/>
+	<classpathentry kind="lib" path="lib-local/windows-swt-32bit/swt.jar"/>
+	<classpathentry kind="lib" path="lib-local/gnuprologjava-0.2.6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
